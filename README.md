@@ -1,6 +1,7 @@
 # My_app
 
 What is my app about?
+
 The app I want to develop, consist basically a fishing app. The thing that I mean with this concept, is that I want my program to be used by the people that do fishing as a sport, the practical use of the app is to track all the catches that are done during the fishing day, by this way they could add each fish and add information about it to take into account for future days.
 
 Domain details:
