@@ -2,7 +2,7 @@
 
 What is my app about?
 
-The app I want to develop, consist basically a fishing app. The thing that I mean with this concept, is that I want my program to be used by the people that do fishing as a sport. 
+The app I want to develop is basically a fishing app. The thing that I mean with this concept, is that I want my program to be used by the people who fish as a sport. 
 The practical use of the app is to track all the catches that are done during the fishing day by adding info about each fish, such as the bait used, the place where it was found or it could simply be a way of having a comfortable format to take note of the achievements made by the fisherman during time.
 Furthermore, all of this data collected could be a really good feedback in terms of what to do for future fishing days.
 
