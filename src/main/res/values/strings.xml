@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Compose</string>
+    <string name="añadir">+</string>
+    <string name="delete">x</string>
+    <string name="update">Update</string>
+    <string name="añadir_pez">Add a new catch</string>
+    <string name="regresar"><![CDATA[<-]]></string>
+
+
+</resources>
